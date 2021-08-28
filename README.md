@@ -24,8 +24,9 @@ https://drive.google.com/file/d/16yxbErCy1LKqk7RFbp-DjZTCbr20bxb2/view
 ## Tableau public
 https://public.tableau.com/app/profile/soumit.kar/viz/PlaystoreDashboard1/Dashboard4
 
+<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/lTbY5sjG9xhENgHAov/giphy.gif">
 
-https://media.giphy.com/media/lTbY5sjG9xhENgHAov/giphy.gif?cid=790b7611a408d237a167329931e04f6b9c00017aafe74eef&rid=giphy.gif&ct=g
+
 ## Optimizations
 
 Minimize the number of fields.
